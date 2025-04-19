@@ -1,0 +1,12 @@
+🧰 Essential Tools
+
+Tool	Use Case	Why It Matters
+Jupyter Notebook (interactive coding visualization data environment)
+Pandas (Python lib) Data wrangling	Clean, filter, and reshape data fast
+Matplotlib / Seaborn	Visualization	Create clear, polished graphs
+SQL	Query databases	Real-world data usually lives in a DB
+Excel / Google Sheets	Quick validation, sharing	Clients still love spreadsheets
+Power BI / Tableau	Dashboards	Stakeholders want interactive insights
+Git	Version control	Keep track of your code and notebooks
+VS Code	Python scripts + Git	Better for larger, reusable projects
+Jupyter Lab	Upgrade to classic	Tabs, terminals, and cleaner workflows
